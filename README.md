@@ -1,0 +1,2 @@
+# Hybrid-IDS_CICIDS2018
+The proposed hybrid IDS is tested on two public network datasets, the CSE-CIC-IDS2018 and the TON IoT datasets, representing internal and external network traffic data. Various measures, such as accuracy, detection rates, false alarm rates, F1 scores, and model execution time, are used to assess the model's feasibility, efficacy, and efficiency. With the model learning and optimization operations, a complete and resilient IDS with both known and unknown attack detection capabilities may be produced. 
